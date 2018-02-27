@@ -1,0 +1,11 @@
+raw
+*.sw?
+.DS_Store
+node_modules
+npm-debug.log
+tmp
+coverage/
+build/
+index.html
+docs/
+.jsdoc-temp/
